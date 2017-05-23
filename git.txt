@@ -1,0 +1,11 @@
+Adding local folder to git hub.
+Create the repository in git hub.
+Go to the folder which want to add in command prompt.
+git init  
+git add .
+git commit -m "First commit Message"
+ git remote add origin GitHub-repository-URL
+git push origin master
+git push -u origin master
+     
+
