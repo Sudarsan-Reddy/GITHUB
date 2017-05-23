@@ -1,2 +1,2 @@
 this is firstText	file......
-https://web.liferay.com/web/eduardo.garcia/blog
+blog for liferay:https://web.liferay.com/web/eduardo.garcia/blog
